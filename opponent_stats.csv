@@ -1,0 +1,151 @@
+﻿YEAR,TEAM,OPP_REB,OPP_AST,OPP_TOV,OPP_STL,OPP_BLK
+2021,Atlanta Hawks,42.7,24.4,12.3,7.7,5
+2021,Boston Celtics,42.5,24.1,14.1,7.4,4.6
+2021,Brooklyn Nets,43.1,24,12.6,7.6,4.6
+2021,Charlotte Hornets,45.2,27.1,14.7,8.1,4.8
+2021,Chicago Bulls,42.1,24.1,12.7,8.5,5.1
+2021,Cleveland Cavaliers,43.7,25.4,14.3,8.5,5.9
+2021,Dallas Mavericks,43.9,22.7,12.6,7.3,3.7
+2021,Denver Nuggets,41.2,25.9,14.1,7.5,4.5
+2021,Detroit Pistons,44.3,24.8,13.9,8,5.8
+2021,Golden State Warriors,47.3,23.8,15,7.9,4.3
+2021,Houston Rockets,47.6,25.8,14.7,8.5,5.3
+2021,Indiana Pacers,46.8,26.1,14.8,7.4,5.3
+2021,LA Clippers,41.2,22.9,12.8,7.1,4.2
+2021,Los Angeles Lakers,42,24.7,15.2,8.2,4.5
+2021,Memphis Grizzlies,44.7,25.4,14.8,7.7,5.2
+2021,Miami Heat,42.9,25.8,15.1,7.5,4
+2021,Milwaukee Bucks,43.4,25.1,13.2,7,4.8
+2021,Minnesota Timberwolves,45.8,26.8,15.3,7.6,5.5
+2021,New Orleans Pelicans,41.8,25.9,13.3,7.7,5.9
+2021,New York Knicks,44.1,23.6,12.8,6.6,5.4
+2021,Oklahoma City Thunder,47.1,25.8,13.1,9,5.3
+2021,Orlando Magic,47.4,26,12.7,7.6,5.3
+2021,Philadelphia 76ers,42.9,23.5,15.6,7.2,4.7
+2021,Phoenix Suns,42.7,22.9,13.6,6.9,3.6
+2021,Portland Trail Blazers,45.4,24.9,12.4,6.1,4.6
+2021,Sacramento Kings,45.2,25.3,13.7,7.6,4.7
+2021,San Antonio Spurs,47.4,24.8,13.2,6.3,5.1
+2021,Toronto Raptors,45.9,26,16.1,6.6,5.6
+2021,Utah Jazz,42.6,22.3,11.5,7.7,3.9
+2021,Washington Wizards,46.1,24.5,14.7,8.2,4.8
+2020,Atlanta Hawks,47,25,15,9,6.4
+2020,Boston Celtics,44.3,22.4,15.2,7.1,5.5
+2020,Brooklyn Nets,45.9,22.6,12.8,7.7,5.3
+2020,Charlotte Hornets,46,26.6,14.4,8,5
+2020,Chicago Bulls,45.5,25.4,18.3,8.2,5.9
+2020,Cleveland Cavaliers,42.9,26.1,13,9.4,6.3
+2020,Dallas Mavericks,45.4,23.9,11.9,7,4.1
+2020,Denver Nuggets,42.6,25.4,14.3,7.2,4.4
+2020,Detroit Pistons,43.5,24.6,14,8.2,5.6
+2020,Golden State Warriors,46.5,26.1,15.6,8.2,4.9
+2020,Houston Rockets,47.9,25.3,16.2,8,4.9
+2020,Indiana Pacers,45.2,23.1,14.7,6.9,4.6
+2020,LA Clippers,45.3,23.7,14.1,7.5,4.7
+2020,Los Angeles Lakers,42.3,23.4,15.9,8.2,3.7
+2020,Memphis Grizzlies,44.9,24.8,14.8,8,5.3
+2020,Miami Heat,42.5,24.6,14,7.5,4.1
+2020,Milwaukee Bucks,45.8,24.2,14.1,7.4,4.5
+2020,Minnesota Timberwolves,47.3,24.4,15.5,7.8,5.5
+2020,New Orleans Pelicans,44.8,24.5,14.5,8.5,4.8
+2020,New York Knicks,44.2,24.3,13.7,7.2,5
+2020,Oklahoma City Thunder,44.8,23,14.2,7,4
+2020,Orlando Magic,44.9,24.7,14.6,7,4.6
+2020,Philadelphia 76ers,41.8,22.8,13.8,7,4
+2020,Phoenix Suns,43.3,23.6,15.6,7.9,5.5
+2020,Portland Trail Blazers,46.9,24.9,12.9,6.8,4.9
+2020,Sacramento Kings,43.5,24.9,15.2,7.7,4.2
+2020,San Antonio Spurs,45.3,25.7,13.2,6.8,4.3
+2020,Toronto Raptors,46.1,25.6,16.8,7.2,5.5
+2020,Utah Jazz,42.7,21.5,12.3,7.9,4.6
+2020,Washington Wizards,46.2,25.2,16.2,7.5,5
+2019,Atlanta Hawks,46,26.9,15,9.9,5.5
+2019,Boston Celtics,45.9,23.7,15.1,6.8,3.9
+2019,Brooklyn Nets,46.2,23.7,13.5,7.8,5.3
+2019,Charlotte Hornets,45.8,26,13.5,6.9,6
+2019,Chicago Bulls,46.4,25.5,13.3,7.3,5.8
+2019,Cleveland Cavaliers,44.1,25.7,12.5,6.9,5.6
+2019,Dallas Mavericks,44.8,24.5,13,7.8,4.5
+2019,Denver Nuggets,42.5,24.6,13.5,7.4,5
+2019,Detroit Pistons,43.7,23.7,14.1,6.9,5.1
+2019,Golden State Warriors,44.3,24.3,13.5,7.7,3.6
+2019,Houston Rockets,45.4,23.5,15,7.4,4.5
+2019,Indiana Pacers,43.7,24.5,15.7,7.4,5.2
+2019,LA Clippers,45.7,24.1,13.2,8.3,6.1
+2019,Los Angeles Lakers,46.9,25,14.2,8.3,5.1
+2019,Memphis Grizzlies,44.7,23.4,15.2,7.6,4.9
+2019,Miami Heat,44.2,23.3,14.1,7.5,4.7
+2019,Milwaukee Bucks,45.3,24.8,13.4,6.8,4.8
+2019,Minnesota Timberwolves,45.6,26.2,14.7,6.6,5.5
+2019,New Orleans Pelicans,45.8,26.5,13.6,8.6,5.4
+2019,New York Knicks,47.5,25.6,13.2,7.4,5.6
+2019,Oklahoma City Thunder,45.7,24.9,16.7,8.2,5.1
+2019,Orlando Magic,44.6,23.1,13,7,4.4
+2019,Philadelphia 76ers,43.5,23.4,12.7,7.7,4.1
+2019,Phoenix Suns,47.2,25.9,15.7,9,5
+2019,Portland Trail Blazers,42.8,23.2,12.4,7.4,5.1
+2019,Sacramento Kings,48,24.7,15.9,7.5,5.1
+2019,San Antonio Spurs,43.9,24.7,12.2,7.2,4
+2019,Toronto Raptors,44.8,24.5,14.9,7.6,4.5
+2019,Utah Jazz,42.6,21.6,13.9,8.5,4.6
+2019,Washington Wizards,47.3,26.2,15.8,7.7,4.6
+2018,Atlanta Hawks,44.2,26.1,15.1,8.7,5.5
+2018,Boston Celtics,43.8,21.3,14.1,7.2,4.4
+2018,Brooklyn Nets,46.8,21.7,12.4,7.7,5.5
+2018,Charlotte Hornets,43.7,24.7,13.6,6.6,4.9
+2018,Chicago Bulls,45.7,25.9,13.6,7.2,5.2
+2018,Cleveland Cavaliers,43.6,25.9,13.5,7.5,4.1
+2018,Dallas Mavericks,45.8,23.5,13.7,7.2,4.5
+2018,Denver Nuggets,41.6,24.7,13.8,8,4.8
+2018,Detroit Pistons,43.8,25.2,14.8,7.3,4.9
+2018,Golden State Warriors,42.5,23.6,14.3,8.7,3.7
+2018,Houston Rockets,42,22.4,14.5,7.4,4.4
+2018,Indiana Pacers,43,23.2,15.5,7,5.2
+2018,LA Clippers,43.6,24.6,14.1,8.5,5.6
+2018,Los Angeles Lakers,44.8,23.6,14.3,8.3,5.5
+2018,Memphis Grizzlies,42.5,22.1,14.8,8.1,5.1
+2018,Miami Heat,43.1,21,14.1,7.5,4.6
+2018,Milwaukee Bucks,42.7,23.6,15.6,7.1,4.5
+2018,Minnesota Timberwolves,41.8,23.9,15.1,6.5,4.7
+2018,New Orleans Pelicans,45.5,23.7,14.5,8.2,4.2
+2018,New York Knicks,43.2,24,13.3,8.2,4.7
+2018,Oklahoma City Thunder,42.2,23.3,16,7.7,4.6
+2018,Orlando Magic,45.9,24.4,14.2,7.8,4.9
+2018,Philadelphia 76ers,42.2,21.7,14.3,8.5,5.1
+2018,Phoenix Suns,45.9,23.3,13.4,8.7,6
+2018,Portland Trail Blazers,42.9,20.2,12.6,7.3,5.1
+2018,Sacramento Kings,43.8,23.6,14.3,7.8,4.7
+2018,San Antonio Spurs,42.5,21.8,14.1,7.6,3.9
+2018,Toronto Raptors,42.4,21.8,14.3,7.2,4.9
+2018,Utah Jazz,41.6,20,14.9,8.3,4.6
+2018,Washington Wizards,42.5,22.3,14.9,7.8,4.7
+2017,Atlanta Hawks,43.9,23.4,15.4,9,5.2
+2017,Boston Celtics,44.5,22.6,13.9,7.6,5.2
+2017,Brooklyn Nets,47.2,23,13.3,9.5,5.6
+2017,Charlotte Hornets,44.4,24.5,13.1,6.6,5.5
+2017,Chicago Bulls,43.2,23.6,13.4,7.3,4.6
+2017,Cleveland Cavaliers,44.2,24.7,12.6,7.3,4.3
+2017,Dallas Mavericks,44.5,21.3,14.9,6.5,3.4
+2017,Denver Nuggets,40.8,24,12,8.3,4.9
+2017,Detroit Pistons,42.9,23.5,12.8,6.7,4.1
+2017,Golden State Warriors,43.5,22.7,15.5,8.6,3.8
+2017,Houston Rockets,44.1,24.1,15.1,8.5,5
+2017,Indiana Pacers,44.3,22.3,14.9,8.1,5
+2017,LA Clippers,43.1,23.1,13.2,7,3.1
+2017,Los Angeles Lakers,44.4,25.7,14.5,8.5,5.4
+2017,Memphis Grizzlies,42.1,20.1,14.3,7,5
+2017,Miami Heat,43.6,19.6,13.7,6.8,4.9
+2017,Milwaukee Bucks,42.4,24.1,14.7,7.4,4.6
+2017,Minnesota Timberwolves,40.4,23.1,14.3,7.7,5
+2017,New Orleans Pelicans,48.3,23.4,14,7.4,4.2
+2017,New York Knicks,44.7,21.8,12.9,7.5,4.6
+2017,Oklahoma City Thunder,40.6,21.4,13.8,8.5,5.5
+2017,Orlando Magic,45.5,23.6,13,7.6,5.1
+2017,Philadelphia 76ers,45,22.7,15.1,8.6,5.4
+2017,Phoenix Suns,44,22.2,14.9,8.1,5.3
+2017,Portland Trail Blazers,44,20.6,12.8,7.7,5.3
+2017,Sacramento Kings,42.9,23.7,14,8.5,5.1
+2017,San Antonio Spurs,41.5,21.4,14.4,7.5,4.1
+2017,Toronto Raptors,42.1,21.8,14.6,6.7,4.8
+2017,Utah Jazz,40.2,17.8,12.1,7.3,3.8
+2017,Washington Wizards,43,22.8,15.3,7.4,4.6
