@@ -1,3 +1,5 @@
+This is a Python based Machine Learning and Data Analysis project with the use of NBA data, focused around teams winning percentage.
+
 Instructions to run Python Program:
 
 Step 1: To run the first question, run question_1.py. This will create
